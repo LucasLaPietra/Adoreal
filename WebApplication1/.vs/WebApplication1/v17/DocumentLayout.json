@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|c:\\users\\lucas\\source\\repos\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|c:\\users\\lucas\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|c:\\users\\lucas\\source\\repos\\webapplication1\\webapplication1\\repository\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|c:\\users\\lucas\\source\\repos\\webapplication1\\webapplication1\\automapperprofiles\\vehicleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\automapperprofiles\\vehicleprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|c:\\users\\lucas\\source\\repos\\webapplication1\\webapplication1\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|c:\\users\\lucas\\source\\repos\\webapplication1\\webapplication1\\repository\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\ivehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|c:\\users\\lucas\\source\\repos\\webapplication1\\webapplication1\\repository\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|c:\\users\\lucas\\source\\repos\\webapplication1\\webapplication1\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|c:\\users\\lucas\\source\\repos\\webapplication1\\webapplication1\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|c:\\users\\lucas\\source\\repos\\webapplication1\\webapplication1\\dto\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\vehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|c:\\users\\lucas\\source\\repos\\webapplication1\\webapplication1\\domain\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\domain\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|c:\\users\\lucas\\source\\repos\\webapplication1\\webapplication1\\dto\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E82635-A606-41E1-960C-19741C5602E2}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dto\\createvehicledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:31:27.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Repository\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Repository\\VehicleRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\VehicleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:59:38.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\VehicleController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\VehicleController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\VehicleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:55:52.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Context.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Context.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Context.cs",
+              "RelativeToolTip": "WebApplication1\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:47:54.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Repository\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\IRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Repository\\IRepositoryBase.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:46:16.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\RepositoryBase.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\RepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:44:03.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VehicleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\DTO\\VehicleDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\VehicleDTO.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\DTO\\VehicleDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\VehicleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:40:50.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VehicleProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\AutoMapperProfiles\\VehicleProfile.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\AutoMapperProfiles\\VehicleProfile.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\AutoMapperProfiles\\VehicleProfile.cs",
+              "RelativeToolTip": "WebApplication1\\AutoMapperProfiles\\VehicleProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:37:03.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-12T15:07:06.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Repository\\IVehicleRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\IVehicleRepository.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Repository\\IVehicleRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\IVehicleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:59:28.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateVehicleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\DTO\\CreateVehicleDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTO\\CreateVehicleDTO.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\DTO\\CreateVehicleDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTO\\CreateVehicleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:40:40.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Domain\\Vehicle.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Domain\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Lucas\\source\\repos\\WebApplication1\\WebApplication1\\Domain\\Vehicle.cs",
+              "RelativeToolTip": "WebApplication1\\Domain\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T14:37:51.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

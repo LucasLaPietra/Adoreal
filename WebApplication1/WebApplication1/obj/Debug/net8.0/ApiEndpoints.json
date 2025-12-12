@@ -1,0 +1,37 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.VehicleController",
+    "Method": "Create",
+    "RelativePath": "api/Vehicles",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "vehicle",
+        "Type": "WebApplication1.DTO.CreateVehicleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebApplication1.DTO.VehicleDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      }
+    ]
+  }
+]
