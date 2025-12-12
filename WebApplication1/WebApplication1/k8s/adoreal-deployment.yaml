@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+name: adoreal
+namespace: adoreal
+spec:
+replicas: 2
+selector:
+matchLabels:
+app: adoreal
+template:
+metadata:
+labels:
+app: adoreal
+spec:
+containers:
+- name: adoreal
+image: ghcr.io/lucaslapietra/adoreal:latest
+imagePullPolicy: IfNotPresent
+ports:
+- containerPort: 80
+env:
+- name: ASPNETCORE_ENVIRONMENT
+value: "Production"
+imagePullSecrets:
+- name: regcred
