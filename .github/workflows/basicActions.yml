@@ -19,13 +19,13 @@ jobs:
           dotnet-version: '8.0.x'
 
       - name: Restore
-        run: dotnet restore src/WebApplication1/MySolution.sln
+        run: dotnet restore WebApplication1/WebApplication1.sln
 
       - name: Build
-        run: dotnet build src/WebApplication1/MySolution.sln --no-restore --configuration Release
+        run: dotnet build WebApplication1/WebApplication1.sln --no-restore --configuration Release
 
       - name: Test
-        run: dotnet test src/WebApplication1/MySolution.sln --no-build --verbosity normal
+        run: dotnet test WebApplication1/WebApplication1.sln --no-build --verbosity normal
 
       - name: Publish artifact
         if: success()
