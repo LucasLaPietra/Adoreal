@@ -1,0 +1,35 @@
+name: CI
+
+on:
+  push:
+    branches: [ "main", "develop" ]
+  pull_request:
+    branches: [ "main", "develop" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '8.0.x'
+
+      - name: Restore
+        run: dotnet restore WebApplication1/MySolution.sln
+
+      - name: Build
+        run: dotnet build WebApplication1/MySolution.sln --no-restore --configuration Release
+
+      - name: Test
+        run: dotnet test WebApplication1/MySolution.sln --no-build --verbosity normal
+
+      - name: Publish artifact
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: app
+          path: src/MyService/bin/Release/net7.0/publish/
