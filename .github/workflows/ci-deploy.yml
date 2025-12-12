@@ -31,4 +31,4 @@ jobs:
           context: .
           file: WebApplication1/Dockerfile
           push: true
-          tags: ghcr.io/${{ github.repository_owner }}/adoreal:latest
+          tags: ghcr.io/lucaslapietra/adoreal:latest
